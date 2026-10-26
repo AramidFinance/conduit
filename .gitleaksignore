@@ -1,0 +1,14 @@
+# gitleaks false positives - verified 2026-10-26 (contract addresses, public test keys, client IDs, placeholders)
+79b8292c317335dfa34d664ae14ed9e6783a1e73:docs/tutorials/WritingBlocksToFile.md:generic-api-key:118
+79b8292c317335dfa34d664ae14ed9e6783a1e73:docs/tutorials/WritingBlocksToFile.md:generic-api-key:159
+9c0cf193f2bb6198aac7af797fa959516816191f:conduit/data/config_test.go:generic-api-key:135
+9c0cf193f2bb6198aac7af797fa959516816191f:conduit/data/config_test.go:generic-api-key:64
+9c0cf193f2bb6198aac7af797fa959516816191f:conduit/data/config_test.go:generic-api-key:79
+9c0cf193f2bb6198aac7af797fa959516816191f:conduit/data/config_test.go:generic-api-key:95
+bddfb21f39c4bd100b49a7c8e470f32b51220102:docs/tutorials/WritingBlocksToFile.md:generic-api-key:56
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:cmd/conduit/data/conduit.yml:generic-api-key:12
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:cmd/conduit/data/conduit.yml:generic-api-key:25
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:conduit/pipeline/pipeline_test.go:generic-api-key:100
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:conduit/pipeline/pipeline_test.go:generic-api-key:116
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:conduit/pipeline/pipeline_test.go:generic-api-key:156
+c22990e4fbdf382f5ce3872c6d8601ca33b226d2:conduit/pipeline/pipeline_test.go:generic-api-key:85
